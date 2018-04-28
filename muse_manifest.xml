@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1524946928270">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1524947702519">
   <folder name="css">
     <file name="site_global.css" crc="4160652062"/>
     <file name="them.css" crc="3898976128" ref="them"/>
-    <file name="index.css" crc="179779845" ref="index"/>
+    <file name="index.css" crc="144815156" ref="index"/>
     <file name="hide.css" crc="3935696550" ref="hide"/>
     <file name="alone.css" crc="263426635" ref="alone"/>
     <file name="go.css" crc="4137078738" ref="go"/>
@@ -50,7 +50,7 @@
     <file name="u942-4.png" crc="116539771" ref="hide"/>
     <file name="u945-4.png" crc="4089500089" ref="hide"/>
   </folder>
-  <file name="index.html" crc="4156154314" seo="true" mt="1524943733055" redirect="true"/>
+  <file name="index.html" crc="342006873" seo="true" mt="1524947656581" redirect="true"/>
   <file name="alone.html" crc="4233849799" seo="true" mt="1524939609163" redirect="true"/>
   <file name="them.html" crc="88798292" seo="true" mt="1524946397123" redirect="true"/>
   <file name="go.html" crc="496116697" seo="true" mt="1524946878181" redirect="true"/>
