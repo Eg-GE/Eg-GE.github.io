@@ -1,0 +1,58 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1524946928270">
+  <folder name="css">
+    <file name="site_global.css" crc="4160652062"/>
+    <file name="them.css" crc="3898976128" ref="them"/>
+    <file name="index.css" crc="179779845" ref="index"/>
+    <file name="hide.css" crc="3935696550" ref="hide"/>
+    <file name="alone.css" crc="263426635" ref="alone"/>
+    <file name="go.css" crc="4137078738" ref="go"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:alone:them:go:hide"/>
+    <file name="museutils.js" crc="3803043152" ref="index:alone:them:go:hide"/>
+    <file name="whatinput.js" crc="86476730" ref="index:alone:them:go:hide"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:alone:them:go:hide"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:alone:them:go:hide"/>
+    <file name="require.js" crc="4157109226" ref="index:alone:them:go:hide"/>
+  </folder>
+  <folder name="images">
+    <file name="u157-4.png" crc="439800331" ref="index"/>
+    <file name="u161-4.png" crc="349195560" ref="index"/>
+    <file name="u393-4.png" crc="3781507943" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:alone:them"/>
+    <file name="u924.png" crc="276113192" ref="index"/>
+    <file name="u924-r.png" crc="277438890" ref="index"/>
+    <file name="u779.png" crc="3951768971" ref="alone"/>
+    <file name="u779-r.png" crc="137520514" ref="alone"/>
+    <file name="u779-a.png" crc="137520514" ref="alone"/>
+    <file name="u770.png" crc="3951768971" ref="alone"/>
+    <file name="u770-r.png" crc="268430563" ref="alone"/>
+    <file name="u770-a.png" crc="268430563" ref="alone"/>
+    <file name="u564.png" crc="3942022269" ref="alone"/>
+    <file name="u564-r.png" crc="4165983566" ref="alone"/>
+    <file name="u564-a.png" crc="4165983566" ref="alone"/>
+    <file name="u1383-4.png" crc="3890206074" ref="them"/>
+    <file name="u1380-4.png" crc="3772272874" ref="them"/>
+    <file name="u1368-4.png" crc="3763774066" ref="them"/>
+    <file name="u1365-4.png" crc="289969407" ref="them"/>
+    <file name="u1401-4.png" crc="92845117" ref="them"/>
+    <file name="u1356-4.png" crc="328724473" ref="them"/>
+    <file name="u1362.png" crc="4146710660" ref="them"/>
+    <file name="u1362-r.png" crc="4126290616" ref="them"/>
+    <file name="u1389.png" crc="48615388" ref="them"/>
+    <file name="u1389-r.png" crc="4146710660" ref="them"/>
+    <file name="u1410-4.png" crc="464925460" ref="them"/>
+    <file name="u1359-4.png" crc="157986398" ref="them"/>
+    <file name="u1386-4.png" crc="127269379" ref="them"/>
+    <file name="u1377-4.png" crc="48815627" ref="them"/>
+    <file name="u1413-4.png" crc="4130806541" ref="go"/>
+    <file name="u939-8.png" crc="398684427" ref="hide"/>
+    <file name="u942-4.png" crc="116539771" ref="hide"/>
+    <file name="u945-4.png" crc="4089500089" ref="hide"/>
+  </folder>
+  <file name="index.html" crc="4156154314" seo="true" mt="1524943733055" redirect="true"/>
+  <file name="alone.html" crc="4233849799" seo="true" mt="1524939609163" redirect="true"/>
+  <file name="them.html" crc="88798292" seo="true" mt="1524946397123" redirect="true"/>
+  <file name="go.html" crc="496116697" seo="true" mt="1524946878181" redirect="true"/>
+  <file name="hide.html" crc="290606912" seo="true" mt="1524944394113" redirect="true"/>
+</manifest>
