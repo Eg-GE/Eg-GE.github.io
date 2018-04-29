@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525025170309">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525035546314">
   <folder name="css">
-    <file name="site_global.css" crc="222682730"/>
-    <file name="them.css" crc="397794005" ref="them"/>
-    <file name="index.css" crc="4250324464" ref="index"/>
+    <file name="site_global.css" crc="3769676331"/>
+    <file name="them.css" crc="93891683" ref="them"/>
+    <file name="index.css" crc="4189172493" ref="index"/>
     <file name="hide.css" crc="3945052585" ref="hide"/>
     <file name="alone.css" crc="342840996" ref="alone"/>
     <file name="go.css" crc="146881085" ref="go"/>
@@ -11,30 +11,24 @@
     <file name="savi.css" crc="219536994" ref="savi"/>
     <file name="earth.css" crc="4102673981" ref="earth"/>
     <file name="just-monika.css" crc="2271089" ref="just-monika"/>
-    <file name="elam.css" crc="65357756" ref="elam"/>
+    <file name="elam.css" crc="3797070938" ref="elam"/>
     <file name="touch.css" crc="304697978" ref="touch"/>
-    <file name="dead.css" crc="56517129" ref="dead"/>
+    <file name="dead.css" crc="4048992776" ref="dead"/>
+    <file name="ugna.css" crc="88593280" ref="ugna"/>
+    <file name="startgaze.css" crc="186847621" ref="startgaze"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead"/>
-    <file name="museutils.js" crc="3803043152" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead"/>
-    <file name="whatinput.js" crc="86476730" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead"/>
-    <file name="require.js" crc="4157109226" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:startgaze"/>
+    <file name="museutils.js" crc="3803043152" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:startgaze"/>
+    <file name="whatinput.js" crc="86476730" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:startgaze"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:startgaze"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:startgaze"/>
+    <file name="require.js" crc="4157109226" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:startgaze"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="ranka:ok"/>
-    <file name="webpro.js" crc="242022427" ref="dead"/>
-    <file name="form_check.php" crc="147359589" ref="dead"/>
-    <file name="form_throttle.php" crc="93986428" ref="dead"/>
-    <file name="form_process.php" crc="3851993751" ref="dead"/>
-    <file name="form-u2050.php" crc="3935345717" ref="dead"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="alone:them"/>
-    <file name="u1362.png" crc="4146710660" ref="them"/>
-    <file name="u1362-r.png" crc="4126290616" ref="them"/>
+    <file name="blank.gif" crc="4208392903" ref="alone:index"/>
     <file name="favicon.ico" crc="498967080" ref="index:touch"/>
-    <file name="u1542-6.png" crc="4005340376" ref="elam"/>
     <file name="u1678-4.png" crc="4287348531" ref="ranka"/>
     <file name="u1822-4.png" crc="3770767205" ref="ranka"/>
     <file name="untitled-1-recovered-u1696-fr.png" crc="3940339797" ref="ranka"/>
@@ -65,17 +59,19 @@
       <caption webpage="ok" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4243070102" seo="true" mt="1525024325184" redirect="true"/>
+  <file name="index.html" crc="4192524670" seo="true" mt="1525035435016" redirect="true"/>
   <file name="alone.html" crc="5841388" seo="true" mt="1525008335434" redirect="true"/>
-  <file name="them.html" crc="4195480839" seo="true" mt="1525008335434" redirect="true"/>
+  <file name="them.html" crc="4086613190" seo="true" mt="1525031387916" redirect="true"/>
   <file name="go.html" crc="470365923" seo="true" mt="1525008387744" redirect="true"/>
-  <file name="hide.html" crc="277536266" seo="true" mt="1525008335434" redirect="true"/>
-  <file name="earth.html" crc="3929852580" seo="true" mt="1525008335434" redirect="true"/>
-  <file name="elam.html" crc="285593645" seo="true" mt="1525008467884" redirect="true"/>
+  <file name="hide.html" crc="3846550532" seo="true" mt="1525030854720" redirect="true"/>
+  <file name="earth.html" crc="4040331883" seo="true" mt="1525030854701" redirect="true"/>
+  <file name="elam.html" crc="4090911069" seo="true" mt="1525030854685" redirect="true"/>
   <file name="ranka.html" crc="4032000994" seo="true" mt="1525008335434" redirect="true"/>
-  <file name="savi.html" crc="4188920097" seo="true" mt="1525008541384" redirect="true"/>
+  <file name="savi.html" crc="4056493068" seo="true" mt="1525030854706" redirect="true"/>
   <file name="just-monika.html" crc="237709704" seo="true" mt="1525008335434" redirect="true"/>
   <file name="ok.html" crc="254751402" seo="true" mt="1525008335434" redirect="true"/>
   <file name="touch.html" crc="3921894082" seo="true" mt="1525025159153" redirect="true"/>
-  <file name="dead.html" crc="4053069727" seo="true" mt="1525024999139" redirect="true"/>
+  <file name="dead.html" crc="4003212476" seo="true" mt="1525033016428" redirect="true"/>
+  <file name="ugna.html" crc="141846335" seo="true" mt="1525035373341" redirect="true"/>
+  <file name="startgaze.html" crc="499485270" seo="true" mt="1525035363259" redirect="true"/>
 </manifest>
