@@ -2,31 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://eg-ge.github.io/index.html</loc>
-    <lastmod>2018-04-28</lastmod>
+    <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://eg-ge.github.io/alone.html</loc>
-    <lastmod>2018-04-28</lastmod>
+    <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://eg-ge.github.io/them.html</loc>
-    <lastmod>2018-04-28</lastmod>
+    <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://eg-ge.github.io/go.html</loc>
-    <lastmod>2018-04-28</lastmod>
+    <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://eg-ge.github.io/hide.html</loc>
-    <lastmod>2018-04-28</lastmod>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/earth.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/elam.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/ranka.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/savi.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/just-monika.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://eg-ge.github.io/images/m-eyes-crop-u1825.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/ok.html</loc>
+    <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

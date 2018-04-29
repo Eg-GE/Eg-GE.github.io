@@ -1,58 +1,72 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1524947702519">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525008665101">
   <folder name="css">
-    <file name="site_global.css" crc="4160652062"/>
-    <file name="them.css" crc="3898976128" ref="them"/>
-    <file name="index.css" crc="144815156" ref="index"/>
-    <file name="hide.css" crc="3935696550" ref="hide"/>
-    <file name="alone.css" crc="263426635" ref="alone"/>
-    <file name="go.css" crc="4137078738" ref="go"/>
+    <file name="site_global.css" crc="222682730"/>
+    <file name="them.css" crc="397794005" ref="them"/>
+    <file name="index.css" crc="507950457" ref="index"/>
+    <file name="hide.css" crc="3945052585" ref="hide"/>
+    <file name="alone.css" crc="342840996" ref="alone"/>
+    <file name="go.css" crc="146881085" ref="go"/>
+    <file name="ok.css" crc="205770282" ref="ok"/>
+    <file name="ranka.css" crc="3884564979" ref="ranka"/>
+    <file name="savi.css" crc="219536994" ref="savi"/>
+    <file name="earth.css" crc="4102673981" ref="earth"/>
+    <file name="just-monika.css" crc="2271089" ref="just-monika"/>
+    <file name="elam.css" crc="65357756" ref="elam"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:alone:them:go:hide"/>
-    <file name="museutils.js" crc="3803043152" ref="index:alone:them:go:hide"/>
-    <file name="whatinput.js" crc="86476730" ref="index:alone:them:go:hide"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:alone:them:go:hide"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:alone:them:go:hide"/>
-    <file name="require.js" crc="4157109226" ref="index:alone:them:go:hide"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok"/>
+    <file name="museutils.js" crc="3803043152" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok"/>
+    <file name="whatinput.js" crc="86476730" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok"/>
+    <file name="require.js" crc="4157109226" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="ranka:ok"/>
   </folder>
   <folder name="images">
-    <file name="u157-4.png" crc="439800331" ref="index"/>
-    <file name="u161-4.png" crc="349195560" ref="index"/>
-    <file name="u393-4.png" crc="3781507943" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:alone:them"/>
-    <file name="u924.png" crc="276113192" ref="index"/>
-    <file name="u924-r.png" crc="277438890" ref="index"/>
-    <file name="u779.png" crc="3951768971" ref="alone"/>
-    <file name="u779-r.png" crc="137520514" ref="alone"/>
-    <file name="u779-a.png" crc="137520514" ref="alone"/>
-    <file name="u770.png" crc="3951768971" ref="alone"/>
-    <file name="u770-r.png" crc="268430563" ref="alone"/>
-    <file name="u770-a.png" crc="268430563" ref="alone"/>
-    <file name="u564.png" crc="3942022269" ref="alone"/>
-    <file name="u564-r.png" crc="4165983566" ref="alone"/>
-    <file name="u564-a.png" crc="4165983566" ref="alone"/>
-    <file name="u1383-4.png" crc="3890206074" ref="them"/>
-    <file name="u1380-4.png" crc="3772272874" ref="them"/>
-    <file name="u1368-4.png" crc="3763774066" ref="them"/>
-    <file name="u1365-4.png" crc="289969407" ref="them"/>
-    <file name="u1401-4.png" crc="92845117" ref="them"/>
-    <file name="u1356-4.png" crc="328724473" ref="them"/>
+    <file name="blank.gif" crc="4208392903" ref="alone:them"/>
     <file name="u1362.png" crc="4146710660" ref="them"/>
     <file name="u1362-r.png" crc="4126290616" ref="them"/>
-    <file name="u1389.png" crc="48615388" ref="them"/>
-    <file name="u1389-r.png" crc="4146710660" ref="them"/>
-    <file name="u1410-4.png" crc="464925460" ref="them"/>
-    <file name="u1359-4.png" crc="157986398" ref="them"/>
-    <file name="u1386-4.png" crc="127269379" ref="them"/>
-    <file name="u1377-4.png" crc="48815627" ref="them"/>
-    <file name="u1413-4.png" crc="4130806541" ref="go"/>
-    <file name="u939-8.png" crc="398684427" ref="hide"/>
-    <file name="u942-4.png" crc="116539771" ref="hide"/>
-    <file name="u945-4.png" crc="4089500089" ref="hide"/>
+    <file name="favicon.ico" crc="498967080" ref="index"/>
+    <file name="u1542-6.png" crc="4005340376" ref="elam"/>
+    <file name="u1678-4.png" crc="4287348531" ref="ranka"/>
+    <file name="u1822-4.png" crc="3770767205" ref="ranka"/>
+    <file name="untitled-1-recovered-u1696-fr.png" crc="3940339797" ref="ranka"/>
+    <file name="untitled-1-recovered-u1696-r-fr.png" crc="269614206" ref="ranka"/>
+    <file name="menu_bg.jpg" crc="3923088409" ref="ranka:ok">
+      <caption webpage="ok" alt=""/>
+      <caption webpage="ranka" alt=""/>
+    </file>
+    <file name="m-eyes-crop-u1825.png" crc="465171659" seo="true" ref="just-monika">
+      <caption webpage="just-monika" alt=""/>
+    </file>
+    <file name="y-sticky-n_sticker_1.png" crc="4017796694" ref="ok">
+      <caption webpage="ok" alt=""/>
+    </file>
+    <file name="y-sticky-n_sticker_2.png" crc="3882597218" ref="ok">
+      <caption webpage="ok" alt=""/>
+    </file>
+    <file name="y-sticky-s_sticker_1.png" crc="520949545" ref="ok">
+      <caption webpage="ok" alt=""/>
+    </file>
+    <file name="y-sticky-s_sticker_2.png" crc="427564916" ref="ok">
+      <caption webpage="ok" alt=""/>
+    </file>
+    <file name="y-sticky-y_sticker_cut_1.png" crc="173624740" ref="ok">
+      <caption webpage="ok" alt=""/>
+    </file>
+    <file name="y-sticky-y_sticker_cut_2.png" crc="4211511484" ref="ok">
+      <caption webpage="ok" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="342006873" seo="true" mt="1524947656581" redirect="true"/>
-  <file name="alone.html" crc="4233849799" seo="true" mt="1524939609163" redirect="true"/>
-  <file name="them.html" crc="88798292" seo="true" mt="1524946397123" redirect="true"/>
-  <file name="go.html" crc="496116697" seo="true" mt="1524946878181" redirect="true"/>
-  <file name="hide.html" crc="290606912" seo="true" mt="1524944394113" redirect="true"/>
+  <file name="index.html" crc="3782202770" seo="true" mt="1525008335434" redirect="true"/>
+  <file name="alone.html" crc="5841388" seo="true" mt="1525008335434" redirect="true"/>
+  <file name="them.html" crc="4195480839" seo="true" mt="1525008335434" redirect="true"/>
+  <file name="go.html" crc="470365923" seo="true" mt="1525008387744" redirect="true"/>
+  <file name="hide.html" crc="277536266" seo="true" mt="1525008335434" redirect="true"/>
+  <file name="earth.html" crc="3929852580" seo="true" mt="1525008335434" redirect="true"/>
+  <file name="elam.html" crc="285593645" seo="true" mt="1525008467884" redirect="true"/>
+  <file name="ranka.html" crc="4032000994" seo="true" mt="1525008335434" redirect="true"/>
+  <file name="savi.html" crc="4188920097" seo="true" mt="1525008541384" redirect="true"/>
+  <file name="just-monika.html" crc="237709704" seo="true" mt="1525008335434" redirect="true"/>
+  <file name="ok.html" crc="254751402" seo="true" mt="1525008335434" redirect="true"/>
 </manifest>
