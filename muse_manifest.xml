@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525025060102">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525025170309">
   <folder name="css">
     <file name="site_global.css" crc="222682730"/>
     <file name="them.css" crc="397794005" ref="them"/>
@@ -33,7 +33,7 @@
     <file name="blank.gif" crc="4208392903" ref="alone:them"/>
     <file name="u1362.png" crc="4146710660" ref="them"/>
     <file name="u1362-r.png" crc="4126290616" ref="them"/>
-    <file name="favicon.ico" crc="498967080" ref="index"/>
+    <file name="favicon.ico" crc="498967080" ref="index:touch"/>
     <file name="u1542-6.png" crc="4005340376" ref="elam"/>
     <file name="u1678-4.png" crc="4287348531" ref="ranka"/>
     <file name="u1822-4.png" crc="3770767205" ref="ranka"/>
@@ -76,6 +76,6 @@
   <file name="savi.html" crc="4188920097" seo="true" mt="1525008541384" redirect="true"/>
   <file name="just-monika.html" crc="237709704" seo="true" mt="1525008335434" redirect="true"/>
   <file name="ok.html" crc="254751402" seo="true" mt="1525008335434" redirect="true"/>
-  <file name="touch.html" crc="11467803" seo="true" mt="1525024289967" redirect="true"/>
+  <file name="touch.html" crc="3921894082" seo="true" mt="1525025159153" redirect="true"/>
   <file name="dead.html" crc="4053069727" seo="true" mt="1525024999139" redirect="true"/>
 </manifest>
