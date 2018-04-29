@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525008665101">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525025060102">
   <folder name="css">
     <file name="site_global.css" crc="222682730"/>
     <file name="them.css" crc="397794005" ref="them"/>
-    <file name="index.css" crc="507950457" ref="index"/>
+    <file name="index.css" crc="4250324464" ref="index"/>
     <file name="hide.css" crc="3945052585" ref="hide"/>
     <file name="alone.css" crc="342840996" ref="alone"/>
     <file name="go.css" crc="146881085" ref="go"/>
@@ -12,15 +12,22 @@
     <file name="earth.css" crc="4102673981" ref="earth"/>
     <file name="just-monika.css" crc="2271089" ref="just-monika"/>
     <file name="elam.css" crc="65357756" ref="elam"/>
+    <file name="touch.css" crc="304697978" ref="touch"/>
+    <file name="dead.css" crc="56517129" ref="dead"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok"/>
-    <file name="museutils.js" crc="3803043152" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok"/>
-    <file name="whatinput.js" crc="86476730" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok"/>
-    <file name="require.js" crc="4157109226" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead"/>
+    <file name="museutils.js" crc="3803043152" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead"/>
+    <file name="whatinput.js" crc="86476730" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead"/>
+    <file name="require.js" crc="4157109226" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="ranka:ok"/>
+    <file name="webpro.js" crc="242022427" ref="dead"/>
+    <file name="form_check.php" crc="147359589" ref="dead"/>
+    <file name="form_throttle.php" crc="93986428" ref="dead"/>
+    <file name="form_process.php" crc="3851993751" ref="dead"/>
+    <file name="form-u2050.php" crc="3935345717" ref="dead"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="alone:them"/>
@@ -58,7 +65,7 @@
       <caption webpage="ok" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3782202770" seo="true" mt="1525008335434" redirect="true"/>
+  <file name="index.html" crc="4243070102" seo="true" mt="1525024325184" redirect="true"/>
   <file name="alone.html" crc="5841388" seo="true" mt="1525008335434" redirect="true"/>
   <file name="them.html" crc="4195480839" seo="true" mt="1525008335434" redirect="true"/>
   <file name="go.html" crc="470365923" seo="true" mt="1525008387744" redirect="true"/>
@@ -69,4 +76,6 @@
   <file name="savi.html" crc="4188920097" seo="true" mt="1525008541384" redirect="true"/>
   <file name="just-monika.html" crc="237709704" seo="true" mt="1525008335434" redirect="true"/>
   <file name="ok.html" crc="254751402" seo="true" mt="1525008335434" redirect="true"/>
+  <file name="touch.html" crc="11467803" seo="true" mt="1525024289967" redirect="true"/>
+  <file name="dead.html" crc="4053069727" seo="true" mt="1525024999139" redirect="true"/>
 </manifest>

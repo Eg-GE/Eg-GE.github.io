@@ -69,4 +69,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://eg-ge.github.io/touch.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/dead.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
