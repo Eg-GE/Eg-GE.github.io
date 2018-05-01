@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525184332559">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525184631644">
   <folder name="phone">
     <folder name="css">
       <file name="data.css" crc="321863392" ref="phone>data"/>
@@ -23,7 +23,7 @@
     <file name="x.html" crc="279334053" seo="true" mt="1525179676297" redirect="true"/>
     <file name="t.html" crc="4288066365" seo="true" mt="1525179732516" redirect="true"/>
     <file name="c.html" crc="3994858431" seo="true" mt="1525179768767" redirect="true"/>
-    <file name="l.html" crc="70506519" seo="true" mt="1525180497824" redirect="true"/>
+    <file name="l.html" crc="4251431264" seo="true" mt="1525184605891" redirect="true"/>
     <file name="d.html" crc="239145555" seo="true" mt="1525180658641" redirect="true"/>
     <file name="o.html" crc="4237115444" seo="true" mt="1525180711933" redirect="true"/>
     <file name="m.html" crc="503009390" seo="true" mt="1525182457048" redirect="true"/>
@@ -64,7 +64,7 @@
     <file name="jquery.musemenu.js" crc="3784699396" ref="phone>them:phone>us"/>
     <file name="webpro.js" crc="242022427" ref="phone>them:phone>us"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="phone>them:phone>us"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>us:phone>birbo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:sight:404"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>them:phone>q:phone>x:phone>t:phone>c:phone>d:phone>o:phone>m:phone>us:phone>birbo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:sight:404"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="alone:index"/>
