@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525183659395">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525184332559">
   <folder name="phone">
     <folder name="css">
       <file name="data.css" crc="321863392" ref="phone>data"/>
@@ -13,11 +13,11 @@
       <file name="c.css" crc="4002818834" ref="phone>c"/>
       <file name="q.css" crc="3938336695" ref="phone>q"/>
       <file name="yokubo.css" crc="243276401" ref="phone>yokubo"/>
-      <file name="index.css" crc="4161134269" ref="phone>index"/>
+      <file name="index.css" crc="320447819" ref="phone>index"/>
       <file name="x.css" crc="4015052433" ref="phone>x"/>
       <file name="us.css" crc="43701012" ref="phone>us"/>
     </folder>
-    <file name="index.html" crc="3934402156" seo="true" mt="1525183206498" redirect="true"/>
+    <file name="index.html" crc="4234854933" seo="true" mt="1525184240886" redirect="true"/>
     <file name="them.html" crc="225081617" seo="true" mt="1525178375747" redirect="true"/>
     <file name="q.html" crc="4221006631" seo="true" mt="1525179625462" redirect="true"/>
     <file name="x.html" crc="279334053" seo="true" mt="1525179676297" redirect="true"/>
@@ -36,7 +36,7 @@
   <folder name="css">
     <file name="site_global.css" crc="80988094"/>
     <file name="them.css" crc="93891683" ref="them"/>
-    <file name="index.css" crc="3931467830" ref="index"/>
+    <file name="index.css" crc="3796844296" ref="index"/>
     <file name="hide.css" crc="3945052585" ref="hide"/>
     <file name="alone.css" crc="342840996" ref="alone"/>
     <file name="go.css" crc="192448322" ref="go"/>
@@ -99,7 +99,7 @@
       <caption webpage="ok" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="315860536" seo="true" mt="1525183009184" redirect="true"/>
+  <file name="index.html" crc="3821311305" seo="true" mt="1525184107776" redirect="true"/>
   <file name="alone.html" crc="406284499" seo="true" mt="1525164945770" redirect="true"/>
   <file name="them.html" crc="4246557462" seo="true" mt="1525165576992" redirect="true"/>
   <file name="go.html" crc="415261616" seo="true" mt="1525167872814" redirect="true"/>
