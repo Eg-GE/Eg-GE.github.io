@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525191436061">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525192283979">
   <folder name="phone">
     <folder name="css">
       <file name="data.css" crc="321863392" ref="phone>data"/>
@@ -36,7 +36,7 @@
   <folder name="css">
     <file name="site_global.css" crc="80988094"/>
     <file name="them.css" crc="93891683" ref="them"/>
-    <file name="index.css" crc="124552081" ref="index"/>
+    <file name="index.css" crc="122994676" ref="index"/>
     <file name="hide.css" crc="3945052585" ref="hide"/>
     <file name="alone.css" crc="342840996" ref="alone"/>
     <file name="go.css" crc="192448322" ref="go"/>
@@ -100,7 +100,7 @@
       <caption webpage="ok" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4282648858" seo="true" mt="1525191417891" redirect="true"/>
+  <file name="index.html" crc="347528656" seo="true" mt="1525192270385" redirect="true"/>
   <file name="alone.html" crc="406284499" seo="true" mt="1525164945770" redirect="true"/>
   <file name="them.html" crc="4246557462" seo="true" mt="1525165576992" redirect="true"/>
   <file name="go.html" crc="415261616" seo="true" mt="1525167872814" redirect="true"/>
