@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://eg-ge.github.io/index.html</loc>
-    <lastmod>2018-05-01</lastmod>
+    <lastmod>2018-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eg-ge.github.io/phone/index.html"/>
@@ -74,7 +74,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/go.html</loc>
+    <loc>http://eg-ge.github.io/hide.html</loc>
     <lastmod>2018-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -93,13 +93,13 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eg-ge.github.io/phone/them.html"/>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/phone/q.html</loc>
+    <loc>http://eg-ge.github.io/go.html</loc>
     <lastmod>2018-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/hide.html</loc>
+    <loc>http://eg-ge.github.io/phone/q.html</loc>
     <lastmod>2018-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -176,13 +176,25 @@
   </url>
   <url>
     <loc>http://eg-ge.github.io/stargaze.html</loc>
-    <lastmod>2018-05-01</lastmod>
+    <lastmod>2018-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://eg-ge.github.io/luna.html</loc>
     <lastmod>2018-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/get.html</loc>
+    <lastmod>2018-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/invisible.html</loc>
+    <lastmod>2018-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

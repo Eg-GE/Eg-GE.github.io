@@ -11,30 +11,30 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "stargaze.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "invisible.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=498967080"/>
-  <title>stargaze</title>
+  <title>invisible</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=80988094"/>
-  <link rel="stylesheet" type="text/css" href="css/stargaze.css?crc=271580864" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/invisible.css?crc=4287721440" id="pagesheet"/>
    </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="rounded-corners grpelem" id="u2148" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-   <div class="grpelem" id="u6427" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.7071,M12=0.7071,M21=-0.7071,M22=0.7071,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-3" data-mu-ie-matrix-dy="-3" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-   <div class="rounded-corners grpelem" id="u6430" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-   <div class="grpelem" id="u2151" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.7071,M12=0.7071,M21=-0.7071,M22=0.7071,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-3" data-mu-ie-matrix-dy="-3" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-   <div class="grpelem" id="u2152" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.7071,M12=0.7071,M21=-0.7071,M22=0.7071,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-3" data-mu-ie-matrix-dy="-3" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-   <div class="rounded-corners grpelem" id="u6409" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.766,M12=0.6428,M21=-0.6428,M22=0.766,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-49" data-mu-ie-matrix-dy="15"><!-- simple frame --></div>
-   <div class="rounded-corners grpelem" id="u6412" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=-0.1736,M12=-0.9848,M21=0.9848,M22=-0.1736,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-17" data-mu-ie-matrix-dy="13"><!-- simple frame --></div>
-   <div class="rounded-corners grpelem" id="u6415" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.8192,M12=0.5736,M21=-0.5736,M22=0.8192,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-7" data-mu-ie-matrix-dy="0"><!-- simple frame --></div>
-   <div class="rounded-corners grpelem" id="u6418" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.891,M12=-0.454,M21=0.454,M22=0.891,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-11" data-mu-ie-matrix-dy="1"><!-- simple frame --></div>
-   <div class="rounded-corners grpelem" id="u6421" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=-0.9613,M12=-0.2756,M21=0.2756,M22=-0.9613,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-4" data-mu-ie-matrix-dy="-1"><!-- simple frame --></div>
-   <div class="rounded-corners grpelem" id="u6424" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-   <div class="verticalspacer" data-offset-top="375" data-content-above-spacer="374" data-content-below-spacer="125" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="clearfix grpelem" id="pu6617-4"><!-- group -->
+    <div class="browser_width grpelem" id="u6617-4-bw">
+     <div class="beep clearfix" id="u6617-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p id="u6617-2">U-uhmmm... I- I swear I wasn't stalking them! Please! You have to believe me... They just.... Look cute together and just. Aaaarghh... Pleaseee don't tell on me!</p>
+     </div>
+    </div>
+    <div class="grpelem" id="u6620"><!-- simple frame --></div>
+   </div>
+   <div class="verticalspacer" data-offset-top="515" data-content-above-spacer="515" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="beep clearfix grpelem" id="u6623-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+    <p>A</p>
+   </div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -51,6 +51,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
