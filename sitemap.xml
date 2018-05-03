@@ -74,7 +74,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/hide.html</loc>
+    <loc>http://eg-ge.github.io/earth.html</loc>
     <lastmod>2018-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -99,13 +99,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/phone/q.html</loc>
+    <loc>http://eg-ge.github.io/hide.html</loc>
     <lastmod>2018-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/earth.html</loc>
+    <loc>http://eg-ge.github.io/phone/q.html</loc>
     <lastmod>2018-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -195,6 +195,18 @@
   <url>
     <loc>http://eg-ge.github.io/invisible.html</loc>
     <lastmod>2018-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/egg.html</loc>
+    <lastmod>2018-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/proj.html</loc>
+    <lastmod>2018-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

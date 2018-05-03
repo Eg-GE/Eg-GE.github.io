@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525291394083">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525381991271">
   <folder name="phone">
     <folder name="css">
       <file name="data.css" crc="321863392" ref="phone>data"/>
@@ -55,14 +55,16 @@
     <file name="luna.css" crc="3833369582" ref="luna"/>
     <file name="invisible.css" crc="4287721440" ref="invisible"/>
     <file name="get.css" crc="190098715" ref="get"/>
+    <file name="egg.css" crc="359326727" ref="egg"/>
+    <file name="proj.css" crc="4290952980" ref="proj"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible"/>
-    <file name="museutils.js" crc="3803043152" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible"/>
-    <file name="whatinput.js" crc="86476730" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible"/>
-    <file name="require.js" crc="4157109226" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible:egg:proj"/>
+    <file name="museutils.js" crc="3803043152" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible:egg:proj"/>
+    <file name="whatinput.js" crc="86476730" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible:egg:proj"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible:egg:proj"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible:egg:proj"/>
+    <file name="require.js" crc="4157109226" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible:egg:proj"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="ranka:ok"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="phone>them:phone>us"/>
     <file name="webpro.js" crc="242022427" ref="phone>them:phone>us"/>
@@ -72,7 +74,7 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="alone:index"/>
-    <file name="favicon.ico" crc="498967080" ref="index:ugna"/>
+    <file name="favicon.ico" crc="498967080" ref="index:ugna:egg"/>
     <file name="u1678-4.png" crc="4287348531" ref="ranka"/>
     <file name="u1822-4.png" crc="3770767205" ref="ranka"/>
     <file name="untitled-1-recovered-u1696-fr.png" crc="3940339797" ref="ranka"/>
@@ -123,4 +125,6 @@
   <file name="luna.html" crc="3864510024" seo="true" mt="1525191311016" redirect="true"/>
   <file name="get.html" crc="323552286" seo="true" mt="1525289709433" redirect="true"/>
   <file name="invisible.html" crc="4274071607" seo="true" mt="1525290218222" redirect="true"/>
+  <file name="egg.html" crc="194122729" seo="true" mt="1525381977776" redirect="true"/>
+  <file name="proj.html" crc="391096743" seo="true" mt="1525381940978" redirect="false"/>
 </manifest>
