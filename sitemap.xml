@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://eg-ge.github.io/index.html</loc>
-    <lastmod>2018-05-05</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eg-ge.github.io/phone/index.html"/>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/phone/q.html</loc>
+    <lastmod>2018-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://eg-ge.github.io/phone/x.html</loc>
@@ -111,10 +117,11 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/phone/q.html</loc>
+    <loc>http://eg-ge.github.io/404.html</loc>
     <lastmod>2018-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eg-ge.github.io/phone/404.html"/>
   </url>
   <url>
     <loc>http://eg-ge.github.io/ranka.html</loc>
@@ -151,13 +158,19 @@
   </url>
   <url>
     <loc>http://eg-ge.github.io/dead.html</loc>
-    <lastmod>2018-05-05</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://eg-ge.github.io/ugna.html</loc>
-    <lastmod>2018-05-01</lastmod>
+    <lastmod>2018-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/stargaze.html</loc>
+    <lastmod>2018-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -168,15 +181,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/404.html</loc>
-    <lastmod>2018-05-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eg-ge.github.io/phone/404.html"/>
-  </url>
-  <url>
-    <loc>http://eg-ge.github.io/stargaze.html</loc>
-    <lastmod>2018-05-02</lastmod>
+    <loc>http://eg-ge.github.io/proj.html</loc>
+    <lastmod>2018-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -205,8 +211,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/proj.html</loc>
-    <lastmod>2018-05-04</lastmod>
+    <loc>http://eg-ge.github.io/server.html</loc>
+    <lastmod>2018-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -220,8 +226,20 @@
     </image:image>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/server.html</loc>
-    <lastmod>2018-05-05</lastmod>
+    <loc>http://eg-ge.github.io/ugna-core.html</loc>
+    <lastmod>2018-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/limbo.html</loc>
+    <lastmod>2018-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/assets/index.html</loc>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

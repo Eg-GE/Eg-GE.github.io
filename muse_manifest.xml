@@ -1,82 +1,87 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525552637910">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525895785778">
+  <folder name="assets">
+    <file name="index.html" crc="326171807" seo="true" mt="1525871006000"/>
+  </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="data.css" crc="321863392" ref="phone>data"/>
-      <file name="404.css" crc="3800568353" ref="phone>404"/>
-      <file name="them.css" crc="114962048" ref="phone>them"/>
-      <file name="l.css" crc="4006975286" ref="phone>l"/>
-      <file name="o.css" crc="4035409045" ref="phone>o"/>
-      <file name="t.css" crc="4185923904" ref="phone>t"/>
-      <file name="birbo.css" crc="3850753994" ref="phone>birbo"/>
-      <file name="m.css" crc="3932003790" ref="phone>m"/>
-      <file name="d.css" crc="398047787" ref="phone>d"/>
-      <file name="c.css" crc="4002818834" ref="phone>c"/>
-      <file name="q.css" crc="3938336695" ref="phone>q"/>
       <file name="yokubo.css" crc="243276401" ref="phone>yokubo"/>
-      <file name="index.css" crc="320447819" ref="phone>index"/>
-      <file name="x.css" crc="4015052433" ref="phone>x"/>
+      <file name="c.css" crc="4002818834" ref="phone>c"/>
+      <file name="them.css" crc="114962048" ref="phone>them"/>
+      <file name="d.css" crc="398047787" ref="phone>d"/>
+      <file name="q.css" crc="3938336695" ref="phone>q"/>
+      <file name="l.css" crc="4006975286" ref="phone>l"/>
+      <file name="birbo.css" crc="3850753994" ref="phone>birbo"/>
       <file name="us.css" crc="43701012" ref="phone>us"/>
+      <file name="x.css" crc="4015052433" ref="phone>x"/>
+      <file name="data.css" crc="321863392" ref="phone>data"/>
+      <file name="m.css" crc="3932003790" ref="phone>m"/>
+      <file name="o.css" crc="4035409045" ref="phone>o"/>
+      <file name="404.css" crc="3800568353" ref="phone>404"/>
+      <file name="t.css" crc="4185923904" ref="phone>t"/>
+      <file name="index.css" crc="320447819" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="64914186" seo="true" mt="1525552528642" redirect="true"/>
-    <file name="them.html" crc="165862888" seo="true" mt="1525552528409" redirect="true"/>
-    <file name="q.html" crc="166998230" seo="true" mt="1525552528451" redirect="true"/>
-    <file name="x.html" crc="4272172855" seo="true" mt="1525552528445" redirect="true"/>
-    <file name="t.html" crc="3839856821" seo="true" mt="1525552528432" redirect="true"/>
-    <file name="c.html" crc="534891764" seo="true" mt="1525552528608" redirect="true"/>
-    <file name="l.html" crc="4047762936" seo="true" mt="1525552528612" redirect="true"/>
-    <file name="d.html" crc="4008044243" seo="true" mt="1525552528614" redirect="true"/>
-    <file name="o.html" crc="520146676" seo="true" mt="1525552528641" redirect="true"/>
-    <file name="m.html" crc="92008205" seo="true" mt="1525552528606" redirect="true"/>
-    <file name="data.html" crc="262100433" seo="true" mt="1525183256790" redirect="true"/>
-    <file name="us.html" crc="415899596" seo="true" mt="1525552528417" redirect="true"/>
-    <file name="birbo.html" crc="346975353" seo="true" mt="1525552528619" redirect="true"/>
-    <file name="yokubo.html" crc="4262967844" seo="true" mt="1525552528630" redirect="true"/>
-    <file name="404.html" crc="4272223252" seo="true" mt="1525552528625" redirect="true"/>
+    <file name="index.html" crc="70561528" seo="true" mt="1525895435611" redirect="true"/>
+    <file name="them.html" crc="4024639527" seo="true" mt="1525552528409" redirect="true"/>
+    <file name="q.html" crc="3889803606" seo="true" mt="1525552528451" redirect="true"/>
+    <file name="x.html" crc="160246785" seo="true" mt="1525552528445" redirect="true"/>
+    <file name="t.html" crc="3916801654" seo="true" mt="1525552528432" redirect="true"/>
+    <file name="c.html" crc="4121011997" seo="true" mt="1525552528608" redirect="true"/>
+    <file name="l.html" crc="69495862" seo="true" mt="1525552528612" redirect="true"/>
+    <file name="d.html" crc="118344472" seo="true" mt="1525552528614" redirect="true"/>
+    <file name="o.html" crc="509558241" seo="true" mt="1525552528641" redirect="true"/>
+    <file name="m.html" crc="302468037" seo="true" mt="1525552528606" redirect="true"/>
+    <file name="data.html" crc="3891789409" seo="true" mt="1525183256790" redirect="true"/>
+    <file name="us.html" crc="3963322062" seo="true" mt="1525552528417" redirect="true"/>
+    <file name="birbo.html" crc="4266751587" seo="true" mt="1525552528619" redirect="true"/>
+    <file name="yokubo.html" crc="459809668" seo="true" mt="1525552528630" redirect="true"/>
+    <file name="404.html" crc="4246591150" seo="true" mt="1525552528625" redirect="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="390110324"/>
-    <file name="them.css" crc="93891683" ref="them"/>
-    <file name="index.css" crc="341772835" ref="index"/>
-    <file name="hide.css" crc="3945052585" ref="hide"/>
-    <file name="alone.css" crc="342840996" ref="alone"/>
-    <file name="go.css" crc="192448322" ref="go"/>
+    <file name="site_global.css" crc="294290530"/>
+    <file name="index.css" crc="3949207023" ref="index"/>
+    <file name="unconnect.css" crc="154058920" ref="unconnect"/>
     <file name="ok.css" crc="205770282" ref="ok"/>
-    <file name="ranka.css" crc="3884564979" ref="ranka"/>
-    <file name="savi.css" crc="219536994" ref="savi"/>
     <file name="earth.css" crc="4102673981" ref="earth"/>
+    <file name="ugna.css" crc="220851837" ref="ugna"/>
     <file name="just-monika.css" crc="2271089" ref="just-monika"/>
-    <file name="elam.css" crc="3797070938" ref="elam"/>
-    <file name="touch.css" crc="304697978" ref="touch"/>
-    <file name="dead.css" crc="4048992776" ref="dead"/>
-    <file name="ugna.css" crc="88593280" ref="ugna"/>
-    <file name="404.css" crc="379354278" ref="404"/>
-    <file name="sight.css" crc="401479231" ref="sight"/>
-    <file name="stargaze.css" crc="271580864" ref="stargaze"/>
+    <file name="hide.css" crc="3945052585" ref="hide"/>
+    <file name="go.css" crc="192448322" ref="go"/>
+    <file name="dead.css" crc="28679880" ref="dead"/>
     <file name="luna.css" crc="3833369582" ref="luna"/>
     <file name="invisible.css" crc="506379085" ref="invisible"/>
-    <file name="get.css" crc="3946572679" ref="get"/>
-    <file name="egg.css" crc="359326727" ref="egg"/>
-    <file name="proj.css" crc="4290952980" ref="proj"/>
-    <file name="unconnect.css" crc="154058920" ref="unconnect"/>
+    <file name="them.css" crc="93891683" ref="them"/>
+    <file name="stargaze.css" crc="271580864" ref="stargaze"/>
+    <file name="404.css" crc="379354278" ref="404"/>
     <file name="server.css" crc="3945838074" ref="server"/>
+    <file name="savi.css" crc="219536994" ref="savi"/>
+    <file name="get.css" crc="3946572679" ref="get"/>
+    <file name="alone.css" crc="342840996" ref="alone"/>
+    <file name="touch.css" crc="304697978" ref="touch"/>
+    <file name="ranka.css" crc="3884564979" ref="ranka"/>
+    <file name="sight.css" crc="401479231" ref="sight"/>
+    <file name="proj.css" crc="4290952980" ref="proj"/>
+    <file name="elam.css" crc="3797070938" ref="elam"/>
+    <file name="egg.css" crc="359326727" ref="egg"/>
+    <file name="ugna-core.css" crc="268083762" ref="ugna-core"/>
+    <file name="limbo.css" crc="491480715" ref="limbo"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible:egg:proj:unconnect:server"/>
-    <file name="museutils.js" crc="3803043152" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible:egg:proj:unconnect:server"/>
-    <file name="whatinput.js" crc="86476730" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible:egg:proj:unconnect:server"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible:egg:proj:unconnect:server"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible:egg:proj:unconnect:server"/>
-    <file name="require.js" crc="4157109226" ref="index:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:sight:404:stargaze:luna:get:invisible:egg:proj:unconnect:server"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="ranka:ok"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>them:phone>us"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo"/>
+    <file name="museutils.js" crc="3803043152" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo"/>
+    <file name="require.js" crc="4157109226" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo"/>
     <file name="webpro.js" crc="242022427" ref="phone>them:phone>us"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>them:phone>us"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="phone>them:phone>us"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>them:phone>q:phone>x:phone>t:phone>c:phone>d:phone>o:phone>m:phone>us:phone>birbo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:sight:404:phone>l:phone>yokubo:index:luna:get:invisible:egg:unconnect:server"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="ranka:ok"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="get"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="alone:index"/>
-    <file name="favicon.ico" crc="498967080" ref="index:ugna"/>
+    <file name="favicon.ico" crc="498967080" ref="index:limbo"/>
+    <file name="blank.gif" crc="4208392903" ref="alone"/>
     <file name="u1678-4.png" crc="4287348531" ref="ranka"/>
     <file name="u1822-4.png" crc="3770767205" ref="ranka"/>
     <file name="untitled-1-recovered-u1696-fr.png" crc="3940339797" ref="ranka"/>
@@ -114,28 +119,30 @@
       <caption webpage="server" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3758180369" seo="true" mt="1525552528414" redirect="true"/>
-  <file name="alone.html" crc="417556942" seo="true" mt="1525552528435" redirect="true"/>
-  <file name="them.html" crc="471067586" seo="true" mt="1525552528408" redirect="true"/>
-  <file name="go.html" crc="257363442" seo="true" mt="1525552528583" redirect="true"/>
-  <file name="hide.html" crc="4137067046" seo="true" mt="1525552528607" redirect="true"/>
-  <file name="earth.html" crc="445127489" seo="true" mt="1525552528415" redirect="true"/>
-  <file name="elam.html" crc="3950710252" seo="true" mt="1525552528636" redirect="true"/>
-  <file name="ranka.html" crc="152939761" seo="true" mt="1525552528609" redirect="true"/>
-  <file name="savi.html" crc="333672715" seo="true" mt="1525552528593" redirect="true"/>
-  <file name="just-monika.html" crc="4190450885" seo="true" mt="1525164945761" redirect="true"/>
-  <file name="ok.html" crc="78219966" seo="true" mt="1525164945762" redirect="true"/>
-  <file name="touch.html" crc="3942793900" seo="true" mt="1525552528410" redirect="true"/>
-  <file name="dead.html" crc="4241550024" seo="true" mt="1525552528449" redirect="true"/>
-  <file name="ugna.html" crc="4219707035" seo="true" mt="1525182914227" redirect="true"/>
-  <file name="sight.html" crc="4184907343" seo="true" mt="1525552528579" redirect="true"/>
-  <file name="404.html" crc="3915784897" seo="true" mt="1525552528412" redirect="true"/>
-  <file name="stargaze.html" crc="10085429" seo="true" mt="1525282273371" redirect="true"/>
-  <file name="luna.html" crc="3922728902" seo="true" mt="1525552528440" redirect="true"/>
-  <file name="get.html" crc="274500788" seo="true" mt="1525552528581" redirect="true"/>
-  <file name="invisible.html" crc="12998640" seo="true" mt="1525552528601" redirect="true"/>
-  <file name="egg.html" crc="281956772" seo="true" mt="1525552528447" redirect="true"/>
-  <file name="proj.html" crc="391096743" seo="true" mt="1525381940978" redirect="false"/>
-  <file name="unconnect.html" crc="4263109458" seo="true" mt="1525552569849" redirect="true"/>
-  <file name="server.html" crc="179763575" seo="true" mt="1525552528443" redirect="true"/>
+  <file name="index.html" crc="119839917" seo="true" mt="1525895496462" redirect="true"/>
+  <file name="alone.html" crc="3796382706" seo="true" mt="1525552528435" redirect="true"/>
+  <file name="them.html" crc="321270959" seo="true" mt="1525552528408" redirect="true"/>
+  <file name="go.html" crc="4060307932" seo="true" mt="1525552528583" redirect="true"/>
+  <file name="hide.html" crc="3964135495" seo="true" mt="1525552528607" redirect="true"/>
+  <file name="earth.html" crc="4130295525" seo="true" mt="1525552528415" redirect="true"/>
+  <file name="elam.html" crc="26432125" seo="true" mt="1525552528636" redirect="true"/>
+  <file name="ranka.html" crc="3854471800" seo="true" mt="1525552528609" redirect="true"/>
+  <file name="savi.html" crc="139454806" seo="true" mt="1525552528593" redirect="true"/>
+  <file name="just-monika.html" crc="228929079" seo="true" mt="1525164945761" redirect="true"/>
+  <file name="ok.html" crc="3793558281" seo="true" mt="1525164945762" redirect="true"/>
+  <file name="touch.html" crc="4180972145" seo="true" mt="1525552528410" redirect="true"/>
+  <file name="dead.html" crc="4016464383" seo="true" mt="1525892985675" redirect="true"/>
+  <file name="ugna.html" crc="4137579767" seo="true" mt="1525893847776" redirect="true"/>
+  <file name="stargaze.html" crc="3824615778" seo="true" mt="1525282273371" redirect="true"/>
+  <file name="sight.html" crc="424515155" seo="true" mt="1525552528579" redirect="true"/>
+  <file name="404.html" crc="3806411876" seo="true" mt="1525552528412" redirect="true"/>
+  <file name="luna.html" crc="4002209935" seo="true" mt="1525552528440" redirect="true"/>
+  <file name="get.html" crc="448531611" seo="true" mt="1525552528581" redirect="true"/>
+  <file name="invisible.html" crc="167115306" seo="true" mt="1525552528601" redirect="true"/>
+  <file name="egg.html" crc="4032793117" seo="true" mt="1525552528447" redirect="true"/>
+  <file name="proj.html" crc="4264277873" seo="true" mt="1525381940978" redirect="false"/>
+  <file name="unconnect.html" crc="3944164196" seo="true" mt="1525552569849" redirect="true"/>
+  <file name="server.html" crc="3840234410" seo="true" mt="1525552528443" redirect="true"/>
+  <file name="ugna-core.html" crc="278570174" seo="true" mt="1525895225633" redirect="true"/>
+  <file name="limbo.html" crc="4146289973" seo="true" mt="1525895710861" redirect="false"/>
 </manifest>
