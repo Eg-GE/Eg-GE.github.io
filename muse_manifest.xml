@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525895785778">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525965773679">
   <folder name="assets">
     <file name="index.html" crc="326171807" seo="true" mt="1525871006000"/>
   </folder>
@@ -59,28 +59,32 @@
     <file name="touch.css" crc="304697978" ref="touch"/>
     <file name="ranka.css" crc="3884564979" ref="ranka"/>
     <file name="sight.css" crc="401479231" ref="sight"/>
-    <file name="proj.css" crc="4290952980" ref="proj"/>
+    <file name="proj.css" crc="4172410057" ref="proj"/>
     <file name="elam.css" crc="3797070938" ref="elam"/>
     <file name="egg.css" crc="359326727" ref="egg"/>
     <file name="ugna-core.css" crc="268083762" ref="ugna-core"/>
     <file name="limbo.css" crc="491480715" ref="limbo"/>
+    <file name="e1112015npwqproj.css" crc="169251035" ref="e1112015npwqproj"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo"/>
-    <file name="museutils.js" crc="3803043152" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo"/>
-    <file name="whatinput.js" crc="86476730" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo"/>
-    <file name="require.js" crc="4157109226" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo"/>
-    <file name="webpro.js" crc="242022427" ref="phone>them:phone>us"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo:e1112015npwqproj"/>
+    <file name="museutils.js" crc="3803043152" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo:e1112015npwqproj"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo:e1112015npwqproj"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo:e1112015npwqproj"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo:e1112015npwqproj"/>
+    <file name="require.js" crc="4157109226" ref="index:phone>index:phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:dead:ugna:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server:ugna-core:limbo:e1112015npwqproj"/>
+    <file name="webpro.js" crc="242022427" ref="phone>them:phone>us:e1112015npwqproj"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="phone>them:phone>us"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="phone>them:phone>us"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:stargaze:sight:404:luna:get:invisible:egg:proj:unconnect:server"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:stargaze:sight:404:luna:get:invisible:egg:unconnect:server"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="ranka:ok"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="get"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="e1112015npwqproj"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="e1112015npwqproj"/>
+    <file name="touchswipe.js" crc="4066113679" ref="e1112015npwqproj"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="498967080" ref="index:limbo"/>
+    <file name="favicon.ico" crc="498967080" ref="index:limbo:proj"/>
     <file name="blank.gif" crc="4208392903" ref="alone"/>
     <file name="u1678-4.png" crc="4287348531" ref="ranka"/>
     <file name="u1822-4.png" crc="3770767205" ref="ranka"/>
@@ -118,6 +122,9 @@
     <file name="warningtape.jpg" crc="525474012" ref="server">
       <caption webpage="server" alt=""/>
     </file>
+    <file name="2015kimyanobel.jpg" crc="14672368" seo="true" ref="e1112015npwqproj">
+      <caption webpage="e1112015npwqproj" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="119839917" seo="true" mt="1525895496462" redirect="true"/>
   <file name="alone.html" crc="3796382706" seo="true" mt="1525552528435" redirect="true"/>
@@ -140,9 +147,10 @@
   <file name="get.html" crc="448531611" seo="true" mt="1525552528581" redirect="true"/>
   <file name="invisible.html" crc="167115306" seo="true" mt="1525552528601" redirect="true"/>
   <file name="egg.html" crc="4032793117" seo="true" mt="1525552528447" redirect="true"/>
-  <file name="proj.html" crc="4264277873" seo="true" mt="1525381940978" redirect="false"/>
+  <file name="proj.html" crc="401222466" seo="true" mt="1525964943313" redirect="true"/>
   <file name="unconnect.html" crc="3944164196" seo="true" mt="1525552569849" redirect="true"/>
   <file name="server.html" crc="3840234410" seo="true" mt="1525552528443" redirect="true"/>
   <file name="ugna-core.html" crc="278570174" seo="true" mt="1525895225633" redirect="true"/>
   <file name="limbo.html" crc="4146289973" seo="true" mt="1525895710861" redirect="false"/>
+  <file name="e1112015npwqproj.html" crc="396502384" seo="true" mt="1525963849063" redirect="true"/>
 </manifest>

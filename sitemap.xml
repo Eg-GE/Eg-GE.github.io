@@ -80,7 +80,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/elam.html</loc>
+    <loc>http://eg-ge.github.io/ranka.html</loc>
     <lastmod>2018-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -117,14 +117,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/404.html</loc>
+    <loc>http://eg-ge.github.io/elam.html</loc>
     <lastmod>2018-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eg-ge.github.io/phone/404.html"/>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/ranka.html</loc>
+    <loc>http://eg-ge.github.io/luna.html</loc>
     <lastmod>2018-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -181,16 +180,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/proj.html</loc>
-    <lastmod>2018-05-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://eg-ge.github.io/luna.html</loc>
+    <loc>http://eg-ge.github.io/404.html</loc>
     <lastmod>2018-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eg-ge.github.io/phone/404.html"/>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/unconnect.html</loc>
+    <lastmod>2018-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://eg-ge.github.io/images/dissconnected.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://eg-ge.github.io/get.html</loc>
@@ -211,19 +214,10 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eg-ge.github.io/server.html</loc>
-    <lastmod>2018-05-05</lastmod>
+    <loc>http://eg-ge.github.io/proj.html</loc>
+    <lastmod>2018-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://eg-ge.github.io/unconnect.html</loc>
-    <lastmod>2018-05-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://eg-ge.github.io/images/dissconnected.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://eg-ge.github.io/ugna-core.html</loc>
@@ -232,10 +226,25 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://eg-ge.github.io/server.html</loc>
+    <lastmod>2018-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://eg-ge.github.io/limbo.html</loc>
     <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eg-ge.github.io/e1112015npwqproj.html</loc>
+    <lastmod>2018-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://eg-ge.github.io/images/2015kimyanobel.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://eg-ge.github.io/assets/index.html</loc>
