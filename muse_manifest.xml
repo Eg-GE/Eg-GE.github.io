@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1525979588549">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1526053344919">
   <folder name="assets">
     <file name="index.html" crc="399800807" seo="true" mt="1525978810000"/>
   </folder>
@@ -37,8 +37,8 @@
     <file name="404.html" crc="4246591150" seo="true" mt="1525552528625" redirect="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="193705030"/>
-    <file name="index.css" crc="3949207023" ref="index"/>
+    <file name="site_global.css" crc="4041373635"/>
+    <file name="index.css" crc="3817808042" ref="index"/>
     <file name="unconnect.css" crc="154058920" ref="unconnect"/>
     <file name="ok.css" crc="205770282" ref="ok"/>
     <file name="earth.css" crc="4102673981" ref="earth"/>
@@ -46,9 +46,9 @@
     <file name="just-monika.css" crc="2271089" ref="just-monika"/>
     <file name="hide.css" crc="3945052585" ref="hide"/>
     <file name="go.css" crc="192448322" ref="go"/>
-    <file name="dead.css" crc="346283736" ref="dead"/>
+    <file name="dead.css" crc="4198000515" ref="dead"/>
     <file name="luna.css" crc="3833369582" ref="luna"/>
-    <file name="invisible.css" crc="506379085" ref="invisible"/>
+    <file name="invisible.css" crc="278556868" ref="invisible"/>
     <file name="them.css" crc="93891683" ref="them"/>
     <file name="stargaze.css" crc="271580864" ref="stargaze"/>
     <file name="404.css" crc="379354278" ref="404"/>
@@ -63,7 +63,7 @@
     <file name="elam.css" crc="3797070938" ref="elam"/>
     <file name="egg.css" crc="359326727" ref="egg"/>
     <file name="ugna-core.css" crc="268083762" ref="ugna-core"/>
-    <file name="limbo.css" crc="491480715" ref="limbo"/>
+    <file name="limbo.css" crc="353669361" ref="limbo"/>
     <file name="e1112015npwqproj.css" crc="169251035" ref="e1112015npwqproj"/>
   </folder>
   <folder name="scripts">
@@ -76,7 +76,7 @@
     <file name="webpro.js" crc="242022427" ref="phone>them:phone>us:e1112015npwqproj"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="phone>them:phone>us"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="phone>them:phone>us"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:stargaze:sight:404:luna:get:invisible:egg:unconnect:server"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>them:phone>q:phone>x:phone>t:phone>c:phone>l:phone>d:phone>o:phone>m:phone>data:phone>us:phone>birbo:phone>yokubo:phone>404:alone:them:go:hide:earth:elam:ranka:savi:just-monika:ok:touch:stargaze:sight:404:luna:get:egg:unconnect:server"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="ranka:ok"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="get"/>
     <file name="musewpslideshow.js" crc="457073769" ref="e1112015npwqproj"/>
@@ -84,7 +84,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="e1112015npwqproj"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="498967080" ref="index:limbo:proj:dead"/>
+    <file name="favicon.ico" crc="498967080" ref="index:proj:dead:limbo"/>
     <file name="blank.gif" crc="4208392903" ref="alone"/>
     <file name="u1678-4.png" crc="4287348531" ref="ranka"/>
     <file name="u1822-4.png" crc="3770767205" ref="ranka"/>
@@ -126,7 +126,7 @@
       <caption webpage="e1112015npwqproj" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="119839917" seo="true" mt="1525895496462" redirect="true"/>
+  <file name="index.html" crc="400710825" seo="true" mt="1526051170361" redirect="true"/>
   <file name="alone.html" crc="3796382706" seo="true" mt="1525552528435" redirect="true"/>
   <file name="them.html" crc="321270959" seo="true" mt="1525552528408" redirect="true"/>
   <file name="go.html" crc="4060307932" seo="true" mt="1525552528583" redirect="true"/>
@@ -138,19 +138,19 @@
   <file name="just-monika.html" crc="228929079" seo="true" mt="1525164945761" redirect="true"/>
   <file name="ok.html" crc="3793558281" seo="true" mt="1525164945762" redirect="true"/>
   <file name="touch.html" crc="4180972145" seo="true" mt="1525552528410" redirect="true"/>
-  <file name="dead.html" crc="3811809647" seo="true" mt="1525979560095" redirect="true"/>
+  <file name="dead.html" crc="263263133" seo="true" mt="1526053333730" redirect="true"/>
   <file name="ugna.html" crc="4137579767" seo="true" mt="1525893847776" redirect="true"/>
   <file name="stargaze.html" crc="3824615778" seo="true" mt="1525282273371" redirect="true"/>
   <file name="sight.html" crc="424515155" seo="true" mt="1525552528579" redirect="true"/>
   <file name="404.html" crc="3806411876" seo="true" mt="1525552528412" redirect="true"/>
   <file name="luna.html" crc="4002209935" seo="true" mt="1525552528440" redirect="true"/>
   <file name="get.html" crc="448531611" seo="true" mt="1525552528581" redirect="true"/>
-  <file name="invisible.html" crc="167115306" seo="true" mt="1525552528601" redirect="true"/>
+  <file name="invisible.html" crc="3853282438" seo="true" mt="1526051319013" redirect="true"/>
   <file name="egg.html" crc="4032793117" seo="true" mt="1525552528447" redirect="true"/>
   <file name="proj.html" crc="401222466" seo="true" mt="1525964943313" redirect="true"/>
   <file name="unconnect.html" crc="3944164196" seo="true" mt="1525552569849" redirect="true"/>
   <file name="server.html" crc="3840234410" seo="true" mt="1525552528443" redirect="true"/>
   <file name="ugna-core.html" crc="278570174" seo="true" mt="1525895225633" redirect="true"/>
-  <file name="limbo.html" crc="4146289973" seo="true" mt="1525895710861" redirect="false"/>
+  <file name="limbo.html" crc="372002061" seo="true" mt="1526052610515" redirect="true"/>
   <file name="e1112015npwqproj.html" crc="396502384" seo="true" mt="1525963849063" redirect="true"/>
 </manifest>
