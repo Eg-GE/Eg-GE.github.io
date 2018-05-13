@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1526053344919">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eg-ge.github.io" resolutions="1x" timestamp="1526230480694">
   <folder name="assets">
     <file name="index.html" crc="399800807" seo="true" mt="1525978810000"/>
   </folder>
@@ -37,7 +37,7 @@
     <file name="404.html" crc="4246591150" seo="true" mt="1525552528625" redirect="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4041373635"/>
+    <file name="site_global.css" crc="294290530"/>
     <file name="index.css" crc="3817808042" ref="index"/>
     <file name="unconnect.css" crc="154058920" ref="unconnect"/>
     <file name="ok.css" crc="205770282" ref="ok"/>
@@ -46,7 +46,7 @@
     <file name="just-monika.css" crc="2271089" ref="just-monika"/>
     <file name="hide.css" crc="3945052585" ref="hide"/>
     <file name="go.css" crc="192448322" ref="go"/>
-    <file name="dead.css" crc="4198000515" ref="dead"/>
+    <file name="dead.css" crc="332429360" ref="dead"/>
     <file name="luna.css" crc="3833369582" ref="luna"/>
     <file name="invisible.css" crc="278556868" ref="invisible"/>
     <file name="them.css" crc="93891683" ref="them"/>
@@ -138,7 +138,7 @@
   <file name="just-monika.html" crc="228929079" seo="true" mt="1525164945761" redirect="true"/>
   <file name="ok.html" crc="3793558281" seo="true" mt="1525164945762" redirect="true"/>
   <file name="touch.html" crc="4180972145" seo="true" mt="1525552528410" redirect="true"/>
-  <file name="dead.html" crc="263263133" seo="true" mt="1526053333730" redirect="true"/>
+  <file name="dead.html" crc="4055145830" seo="true" mt="1526230458044" redirect="true"/>
   <file name="ugna.html" crc="4137579767" seo="true" mt="1525893847776" redirect="true"/>
   <file name="stargaze.html" crc="3824615778" seo="true" mt="1525282273371" redirect="true"/>
   <file name="sight.html" crc="424515155" seo="true" mt="1525552528579" redirect="true"/>
