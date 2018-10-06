@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"A nice smartphone.","effects":[],"hitType":0,"iconIndex":244,"itypeId":1,"name":"Phone","note":"","occasion":0,"price":799,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0}
+]
