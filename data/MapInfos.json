@@ -1,6 +1,4 @@
 [
 null,
-{"id":1,"expanded":true,"name":"One","order":1,"parentId":0,"scrollX":3381.6,"scrollY":1263.6},
-{"id":2,"expanded":true,"name":"iceland","order":2,"parentId":1,"scrollX":982.8,"scrollY":577.1999999999999},
-{"id":3,"expanded":false,"name":"icahome","order":3,"parentId":2,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":481}
 ]
